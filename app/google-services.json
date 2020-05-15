@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779893088674",
+    "firebase_url": "https://finaltaskandroid.firebaseio.com",
+    "project_id": "finaltaskandroid",
+    "storage_bucket": "finaltaskandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779893088674:android:320c953d89e68bea8f92fb",
+        "android_client_info": {
+          "package_name": "com.example.finaltaskandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779893088674-ks527h0c6un203begsv9g4itphg0bp5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKOYvPgnCCHGU6Yr9yfNMhAVmp7ultTgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779893088674-ks527h0c6un203begsv9g4itphg0bp5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
